@@ -1,2 +1,2 @@
 # Spatial-Data-Visualization
-This projects explores the application of python in visualizing the geospatial data by using basemaps module of matplotlib library.For dummy data a perticular month of data was downloaded from pollution board in Delhi with preknown location of each stations.
+This projects explores the application of python in visualizing the geospatial data by using basemaps module of matplotlib library.For dummy data a perticular month of data was downloaded from pollution board in Delhi with preknown location of each stations.Click [here](https://github.com/Kuldeep252/Spatial-Data-Visualization/blob/master/Delhi_map_for%20bubble_plot_git.ipynb) to access the code
